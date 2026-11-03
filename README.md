@@ -43,7 +43,7 @@ Próximamente.
 
 - [Arquitectura](conecta-tec-documentacion/docs/arquitectura.md)
 - [Base de datos](conecta-tec-documentacion/docs/base-de-datos.md)
-- [Endpoints de la API](conecta-tec-documentacion/docs/api/endpoints.md)
+- [Endpoints de la API](conecta-tec-documentacion/docs/endpoints.md)
 
 ## Mi aporte
 
