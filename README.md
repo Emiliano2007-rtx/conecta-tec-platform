@@ -30,7 +30,7 @@ Proyecto desarrollado por estudiantes del Instituto Tecnológico de Ocotlán.
 
 ## Stack
 
-- **Backend:** Java, Spring, PostgreSQL
+- **Backend:** Java, Spring Boot, PostgreSQL
 - **Frontend:** HTML 5, Tailwind CSS, JavaScript
 - **Moderación con IA:** DeepSeek
 - **Arquitectura:** MVC
