@@ -1,4 +1,4 @@
-![Conecta-TEC](docs/logo.png)
+![Conecta-TEC](conecta-tec-documentacion/docs/logo.png)
 
 
 
