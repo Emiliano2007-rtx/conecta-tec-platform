@@ -31,8 +31,8 @@ Proyecto desarrollado por estudiantes del Instituto Tecnológico de Ocotlán.
 ## Stack
 
 - **Backend:** Java, Spring, PostgreSQL
-- **Frontend:** [tecnología]
-- **Moderación con IA:** [herramienta o modelo]
+- **Frontend:** HTML 5, Tailwind CSS, JavaScript
+- **Moderación con IA:** DeepSeek
 - **Arquitectura:** MVC
 
 ## Demo
@@ -41,9 +41,9 @@ Próximamente.
 
 ## Documentación
 
-- [Arquitectura](docs/arquitectura.md)
-- [Base de datos](docs/base-de-datos.md)
-- [Endpoints de la API](docs/api/endpoints.md)
+- [Arquitectura](conecta-tec-documentacion/docs/arquitectura.md)
+- [Base de datos](conecta-tec-documentacion/docs/base-de-datos.md)
+- [Endpoints de la API](conecta-tec-documentacion/docs/api/endpoints.md)
 
 ## Mi aporte
 
