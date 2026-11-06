@@ -32,7 +32,13 @@ Proyecto desarrollado por estudiantes del Instituto Tecnológico de Ocotlán.
 
 ## Stack
 
-- **Backend:** Java, Spring Boot, PostgreSQL
+- **Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Bruno](https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=bruno&logoColor=white)
 - **Frontend:** HTML 5, Tailwind CSS, JavaScript
 - **Moderación con IA:** DeepSeek
 - **Arquitectura:** MVC
