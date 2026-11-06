@@ -1,8 +1,7 @@
-![Conecta-TEC](conecta-tec-documentacion/docs/logo.png)
 ![Java](https://shields.io)
 ![Spring Boot](https://shields.io)
 ![Bruno](https://shields.io)
-
+![Conecta-TEC](conecta-tec-documentacion/docs/logo.png)
 
 
 # Conecta-TEC
