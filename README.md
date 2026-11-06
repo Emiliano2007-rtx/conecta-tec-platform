@@ -9,9 +9,12 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![Bruno](https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=bruno&logoColor=white)
 
 ![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-yellow?style=for-the-badge)
+
 
 Aplicación web colaborativa para estudiantes del TecNM. Permite debatir, compartir conocimiento y colaborar en áreas técnicas y de nicho, usando un alias público para no exponer la identidad real. También le da a cada plantel un canal directo para avisos y difusión académica.
 
