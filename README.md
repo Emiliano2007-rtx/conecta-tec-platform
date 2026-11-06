@@ -51,6 +51,7 @@ Proyecto desarrollado por estudiantes del Instituto Tecnológico de Ocotlán.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Moderación con IA:** 
+
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
 - **Arquitectura:** MVC
