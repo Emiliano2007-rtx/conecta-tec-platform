@@ -54,7 +54,9 @@ Proyecto desarrollado por estudiantes del Instituto Tecnológico de Ocotlán.
 
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
-- **Arquitectura:** MVC
+- **Arquitectura:** 
+
+![MVC](https://img.shields.io/badge/Architecture-MVC-7952B3?style=for-the-badge)
 
 ## Demo
 
