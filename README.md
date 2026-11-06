@@ -8,6 +8,7 @@
 ![Java](https://shields.io) ![Spring Boot](https://shields.io) ![Bruno](https://shields.io) ![En Desarrollo](https://shields.io)
 
 
+
 Aplicación web colaborativa para estudiantes del TecNM. Permite debatir, compartir conocimiento y colaborar en áreas técnicas y de nicho, usando un alias público para no exponer la identidad real. También le da a cada plantel un canal directo para avisos y difusión académica.
 
 Proyecto desarrollado por estudiantes del Instituto Tecnológico de Ocotlán.
